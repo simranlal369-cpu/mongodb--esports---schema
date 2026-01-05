@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "695b786bcc82641340b78eca"
+  },
+  "status": 1,
+  "title": "Evening Scrim",
+  "slots": 100,
+  "clan": {
+    "$oid": "65a8f2c9b4d3e1a123456789"
+  },
+  "game": {
+    "$oid": "65a8f2c9b4d3e1a123456789"
+  },
+  "results": [
+    {
+      "player": {
+        "$oid": "65a8f2c9b4d3e1a123456789"
+      },
+      "kp": 5,
+      "pp": 20
+    }
+  ],
+  "mode": "squad",
+  "prize": [
+    1000,
+    500,
+    250
+  ],
+  "distributed": false,
+  "map": "Erangel",
+  "players": [
+    {
+      "$oid": "65a8f2c9b4d3e1a123456789"
+    }
+  ],
+  "room_id": "ROOM123",
+  "room_pass": "PASS123",
+  "teams": [
+    {
+      "$oid": "65a8f2c9b4d3e1a123456789"
+    }
+  ],
+  "kp": 10,
+  "pp": [
+    20,
+    15,
+    10
+  ],
+  "end_at": 1700000000
+}]

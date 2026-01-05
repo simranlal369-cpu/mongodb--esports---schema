@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "695b78b0cc82641340b78ecd"
+  },
+  "uid": {
+    "$oid": "65a8f2c9b4d3e1a123456789"
+  },
+  "ign": "AlphaJohn",
+  "igid": "PUBG123",
+  "game": {
+    "$oid": "65a8f2c9b4d3e1a123456789"
+  }
+}]

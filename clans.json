@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "695b772acc82641340b78ec4"
+  },
+  "owner": {
+    "$oid": "65b56795cc82641340b78e89"
+  },
+  "verified": true,
+  "managers": [
+    {
+      "$oid": "65b56795cc82641340b78e89"
+    }
+  ],
+  "name": "Alpha Clan",
+  "logo": "logo.png",
+  "banner": "banner.png",
+  "about": "Top competitive clan",
+  "balance": 5000
+}]

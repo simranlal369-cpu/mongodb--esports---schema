@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "695b7924cc82641340b78edd"
+  },
+  "clan": {
+    "$oid": "65a8f2c9b4d3e1a123456789"
+  },
+  "author": {
+    "$oid": "65a8f2c9b4d3e1a987654321"
+  },
+  "title": "Scrim Announcement",
+  "desc": "Join tonight’s scrim",
+  "thumbnail": "thumb.png"
+}]
