@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "695e64d126b750f32318f3db"
+  },
+  "name": "BGMI Championship 2026",
+  "type": "tournament",
+  "game": {
+    "$oid": "65a8f1c9e3b1a0d4c9f12345"
+  },
+  "organizer_clan": {
+    "$oid": "65a8f2d1e3b1a0d4c9f67890"
+  },
+  "teams": [
+    {
+      "$oid": "65a8f345e3b1a0d4c9fabcd1"
+    }
+  ],
+  "prize_pool": 500000,
+  "status": "upcoming",
+  "start_date": {
+    "$date": "2026-03-10T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2026-03-01T00:00:00.000Z"
+  }
+}]
